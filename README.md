@@ -1,2 +1,1 @@
-# mpd
-Website Kegiatan Masjid Pangeran Diponegoro
+http://www.mpd.pe.hu
