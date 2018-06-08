@@ -1,1 +1,1 @@
-http://www.mpd.pe.hu
+Proyek Matakuliah Praktek Kerja Lapangan
